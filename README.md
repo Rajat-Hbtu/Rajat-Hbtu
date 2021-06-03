@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajat Gupta
-- 👀 I’m interested in Coding, machine learning and elctronics. 
+- 👀 I’m interested in Coding, machine learning and electronics. 
 
 <!---
 Rajat-Hbtu/Rajat-Hbtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
